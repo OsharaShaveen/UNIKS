@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# UNIKS - UserBot
+# Copyright (C) 2021-2022 TeamUNIKS
+#
+# This file is a part of < https://github.com/TeamUNIKS/UNIKS/ >
+# PLease read the GNU Affero General Public License in <https://www.github.com/TeamUNIKS/UNIKS/blob/main/LICENSE/>.
+
+bash resources/session/session.sh
