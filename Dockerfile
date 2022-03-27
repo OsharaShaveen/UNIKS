@@ -3,7 +3,7 @@
 # This file is a part of < https://github.com/TeamUNIKS/UNIKS/ >
 # PLease read the GNU Affero General Public License in <https://www.github.com/TeamUNIKS/UNIKS/blob/main/LICENSE/>.
 
-FROM theteamUNIKS/UNIKS:main
+FROM OsharaShaveen/UNIKS:main
 
 # set timezone
 ENV TZ=Asia/Kolkata
